@@ -1,3 +1,7 @@
+# Portfolio using React-js
+
+This is a portfolio which was created by using React-js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
