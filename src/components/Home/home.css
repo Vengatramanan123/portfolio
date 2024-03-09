@@ -1,0 +1,19 @@
+.homesec{
+   /* background-image: url('/src/asset/back.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;*/
+    background-color: white;
+    
+}
+h4{
+    margin-top: 170px;
+    margin-left: 100px;
+    font-size: 30px;
+ 
+}
+h6{
+    margin-left: 100px;
+    margin-top: 6px;
+    font-size: 20px;
+}

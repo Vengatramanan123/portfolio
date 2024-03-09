@@ -1,0 +1,41 @@
+body{
+  background: white;  
+}
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+li{
+  list-style: none;
+  display: flex;
+  float: right;
+  padding: 9px;
+}
+section{
+  padding: 2rem 0 2rem 3rem; 
+}
+p{
+  text-indent: 50px;
+}
+.log{
+  display: flex;
+  float: right;
+  margin-top: -200px;
+  padding-right: 100px;
+  
+}
+.profi{
+  display: flex;
+  float: left;
+  margin-bottom: -100px;
+  border-radius: 60%;
+  width: 300px;
+  margin-top: 200px;
+  margin-left: 100px;
+}
